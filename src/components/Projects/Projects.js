@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Food Booking Site"
+              description="A complete food ordering website where you can order food, pay on delivery and it gets delivered to you ASAP. Built this for this purpose of responsive website testing and it came out well."
+              ghLink="https://github.com/Code-Gale/bimbo"
+              demoLink="https://bimboolobespecial.netlify.app/"
             />
           </Col>
 
