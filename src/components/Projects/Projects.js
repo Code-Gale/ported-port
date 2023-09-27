@@ -3,11 +3,11 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import bitsOfCode from "../../Assets/Projects/4.png";
-import emotion from "../../Assets/Projects/2.png";
+import emotion from "../../Assets/Projects/.png";
 import editor from "../../Assets/Projects/3.png";
 import chatify from "../../Assets/Projects/1.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import leaf from "../../Assets/Projects/blog.png";
+import leaf from "../../Assets/Projects/2.png";
 
 function Projects() {
   return (
@@ -58,10 +58,10 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Praise_concert registration"
+              description="Built a website for music (praise) concert registration / ticket reservation with the aim to improve online concert registration. Site also contains details about events such as time, date, ministers etc and users can reach out to host of event."
+              ghLink="https://github.com/Code-Gale/onesound"
+              demoLink="https://onesound23.netlify.com/"
             />
           </Col>
 
