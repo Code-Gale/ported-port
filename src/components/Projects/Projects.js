@@ -3,10 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import bitsOfCode from "../../Assets/Projects/4.png";
-import emotion from "../../Assets/Projects/.png";
+import emotion from "../../Assets/Projects/.6png";
 import editor from "../../Assets/Projects/3.png";
 import chatify from "../../Assets/Projects/1.png";
-import suicide from "../../Assets/Projects/suicide.png";
+import suicide from "../../Assets/Projects/5.png";
 import leaf from "../../Assets/Projects/2.png";
 
 function Projects() {
@@ -69,9 +69,9 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              title="Quadratic equation solver"
+              description="Using simple python, I  built a simple script that could solve quadratic equation and also handles errors from users such as ValueError."
+              ghLink="https://github.com/Code-Gale/quad_solver"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -80,10 +80,9 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              title="System Encrypt"
+              description="This Python script is designed to provide a means of encrypting files and directories on a system. It uses strong encryption algorithms to protect sensitive data from unauthorized access."
+              ghLink="https://github.com/Code-Gale/SHA-256"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
