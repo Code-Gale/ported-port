@@ -17,7 +17,7 @@ function AboutCard() {
             and I'm open to work.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, here are some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">

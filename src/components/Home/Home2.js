@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Code Singer, a proficient and effective full stack developer with highly creative mind. 
+              I am Code Singer, a proficient and effective full stack developer with a highly creative mind. 
               <br />
               <br />I am fluent in languages like
               <i>
@@ -27,7 +27,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interests are building new &nbsp;
               <i>
                 <b className="purple">Fullstack Web Development </b> and
                 also in areas related to{" "}
