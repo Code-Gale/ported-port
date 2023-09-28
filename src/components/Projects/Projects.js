@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import bitsOfCode from "../../Assets/Projects/4.png";
-import emotion from "../../Assets/Projects/.6png";
+import emotion from "../../Assets/Projects/6.png";
 import editor from "../../Assets/Projects/3.png";
 import chatify from "../../Assets/Projects/1.png";
 import suicide from "../../Assets/Projects/5.png";
