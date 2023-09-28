@@ -32,7 +32,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Conceive it, Idealise it then achieve it.!"{" "}
+            "Conceive it, build on it then achieve it.!"{" "}
           </p>
           <footer className="blockquote-footer">Code Singer</footer>
         </blockquote>
