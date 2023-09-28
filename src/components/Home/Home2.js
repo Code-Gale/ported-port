@@ -37,8 +37,8 @@ function Home2() {
               </i>
               <br />
               <br />
-              At any chance give, I love to use my skills for the greater good
-              by buildiing full websites with<b className="purple">Django</b> and
+              At any given chance, I love to use my skills for the greater good
+              by building fullstack websites with<b className="purple">Django</b> and
               <i>
                 <b className="purple">
                   {" "}

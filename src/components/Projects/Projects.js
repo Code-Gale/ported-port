@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Coded Store"
-              description="An ecommerce store I built with valid backend for electronics, phones and gadgets purchase. Contains lots of features like search for item, categories, pricing, add to cat, checkout and lots more."
+              description="An e-commerce store I built with valid backend for electronics, phones and gadgets purchase. Contains lots of features like search for item, categories, pricing, add to cart, checkout and lots more."
               ghLink="https://github.com/Code-Gale/E-store.git"
               demoLink="https://codedstore.netlify.app/"
             />
