@@ -10,10 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Code Singer </span>
             from <span className="purple"> Lagos, Nigeria.</span>
-            <br /> I am a tech savvy bro with great interest in software development,
+            <br /> I am a tech savvy bro with proficiency in backend software engineering,
             web development and an enthusiast in cybersecurity domain.
             <br />
-            Additionally, I am currently freelance as a fullstack website developer
+            Additionally, I currently freelance as a backend developer
             and I'm open to work.
             <br />
             <br />
@@ -21,13 +21,13 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Ethical hacking
+              <ImPointRight /> Leetcoding
             </li>
             <li className="about-activity">
               <ImPointRight /> Tech Mentoring
             </li>
             <li className="about-activity">
-              <ImPointRight /> Solve Rubiks Cube.
+              <ImPointRight /> Solving Rubiks Cube.
             </li>
           </ul>
 

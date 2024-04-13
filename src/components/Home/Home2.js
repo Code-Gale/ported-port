@@ -19,17 +19,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Code Singer, a proficient and effective full stack developer with a highly creative mind. 
+              I am Code Singer, a proficient and effective backend software engineer with a highly creative mind. 
               <br />
-              <br />I am fluent in languages like
+              <br />I am fluent in languages and frameworks like
               <i>
-                <b className="purple"> Python, Javascript and PHP. </b>
+                <b className="purple"> Python, JavaScript, Node.js, Mongodb, Express.js, TypeScript and PHP. </b>
               </i>
               <br />
               <br />
               My field of Interests are building new &nbsp;
               <i>
-                <b className="purple">Fullstack Web Development </b> and
+                <b className="purple">Web applications </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Cybersecurity domain.
@@ -38,7 +38,7 @@ function Home2() {
               <br />
               <br />
               At any given chance, I love to use my skills for the greater good
-              by building fullstack websites with<b className="purple">Django</b> and
+              by building cutting edge, high performance, scalable and effective web applications with<b className="purple"> Django, Mongodb </b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -47,7 +47,8 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js</b>
+                <b className="purple"> Node.js and</b>
+                <b className="purple"> Express.js</b>
               </i>
             </p>
           </Col>
