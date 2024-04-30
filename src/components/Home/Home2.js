@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Code Singer, a proficient and effective backend software engineer with a highly creative mind. 
+              I am Boluwatife Daramola, a proficient and effective backend software engineer with a highly creative mind. 
               <br />
               <br />I am fluent in languages and frameworks like
               <i>
